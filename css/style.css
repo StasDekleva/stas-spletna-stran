@@ -152,11 +152,11 @@ section{
 
 .heading{
     text-align: center;
-    font-size: 3rem;
+    font-size: 4rem;
     padding: 10px;
     font-weight: bolder;
     text-transform: uppercase;
-    color: rgb(67, 16, 161);
+    color: rgb(32, 24, 143);
 }
 
 .product .box-container{
@@ -341,6 +341,7 @@ section{
 }
 .blog .box-container .box .stars i{
     font-size: 2rem;
+    color: orange;
 }
 
 .news{
